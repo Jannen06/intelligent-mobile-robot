@@ -133,13 +133,6 @@ Don’t forget to provide the **initial pose** (via RViz or CLI).
    ros2 run robile_explorer exploration_node.py
    ```
 ---
-## Contributors
-- Bhavesh
-- Amrit
-- Jannen
-- Sneha
-
----
 ## Resources
 - code: github
 - video: https://youtu.be/cXD8E2jGFP0
